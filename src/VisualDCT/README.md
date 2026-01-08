@@ -25,7 +25,7 @@ website is included in the distribution archives (in the `site` folder).
 
 VisualDCT is a [Maven](https://maven.apache.org/) project.
 Any recent Java IDE should be able to open and compile it.
-VisualDCT is known to compile using Java 8 and Java 10.
+VisualDCT is known to[Makefile](Makefile) compile using Java 8 and Java 10.
 
 Apart from the default lifecycle, two additional Maven goals are useful:
 
